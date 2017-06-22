@@ -1,0 +1,73 @@
+@import url("C:\Windows\Fonts\IndieFlower.ttf");
+@import url("C:\Windows\Fonts\GloriaHallelujah.ttf");
+@import url('C:\Windows\Fonts\Gabriola.ttf');
+@import url('C:\Windows\Fonts\BreeSerif-Regular_0.ttf.ttf');
+@import url('C:\Windows\Fonts\BRLNSR.TTF');
+
+body{
+	text-align: center;
+}
+
+.first_div{
+	text-align:center;
+}
+#hi{
+	text-align:center;
+	left: 25%;
+	position: absolute;
+	top: -50px;
+	font-size: 100px;
+	font-family: "Bree Serif";
+}
+h1{
+	position: relative;
+	bottom: 100px;
+	font-size: 250px;
+	font-family: Gabriola;
+}
+h2{
+	position: absolute;
+	top: 375px;
+	left: 30%;
+	font-size: 50px;
+	font-family: "Indie Flower";
+}
+.certif{
+	position: relative;
+	bottom: 200px;
+	font-family: "Bree Serif";
+	font-size: 100px;
+	margin-top: 250px;
+}
+ ul li{
+ 	display: inline-block;
+}
+ul{
+	margin-left: -5%;
+}
+.certif img{
+	width: 400px;
+	height: 300px;
+}
+
+.contact{
+	position: relative;
+	bottom: 200px;
+	font-size: 100px;
+	font-family: "Bree Serif";
+	height: 300px;
+}
+
+.contact img {
+	width: 100px;
+	height: 100px;
+}
+
+a:hover{
+	opacity: 0.3;
+}
+footer{
+	background-color: rgba(0,0,0,0.4);
+	font-family: "Indie Flower";
+	color: white;
+}
